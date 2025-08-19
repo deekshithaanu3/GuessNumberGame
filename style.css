@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background: #f0f8ff;
+  background: #ffcccc;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -44,4 +44,5 @@ button:hover {
 
 #tries {
   color: #666;
+
 }
